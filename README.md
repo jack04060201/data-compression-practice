@@ -1,5 +1,6 @@
 # data-compression-practice
 練習用程式
+
 編碼端:
 
 I-frame 完成
